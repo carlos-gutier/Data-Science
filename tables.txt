@@ -1,5 +1,5 @@
 Player Profile:
-'ID', 'Name', 'Age', 'Photo', 'Nationality', 'Flag', 'Club', 'Club Logo', 'Overall', 'Potential'
+'Name', 'Age', 'Photo', 'Nationality', 'Club', 'Position, 'Height, 'Weight', 'Overall', 'Potential', 'Wage'
 
 In table:
-'Value', 'Wage',
+'Preferred Foot', 'Weak Foot', 'Crossing', 'Finishing', 'Heading Accuracy', 'Short Passing', 'SprintSpeed', 'Agility', 'ShotPower', 'Stamina', 'LongShots', 'Interceptions', 'Positioning', 'Vision', 'Marking', 'StandingTackle', 'SlidingTackle, 'GKDiving', 'GKHandling', 'GKKicking', 'GKPositioning', 'GKReflexes'
