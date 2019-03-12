@@ -1,0 +1,5 @@
+Player Profile:
+'ID', 'Name', 'Age', 'Photo', 'Nationality', 'Flag', 'Club', 'Club Logo', 'Overall', 'Potential'
+
+In table:
+'Value', 'Wage',
